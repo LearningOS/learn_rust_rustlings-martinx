@@ -6,7 +6,7 @@
 * [x] enums 2022-10-21 22:30:22
 * [x] modules   2022-10-21 22:48:13
 * [x] collections   2022-10-21 23:09:28
-* [ ] strings
+* [x] strings   2022-10-22 00:00:52
 * [ ] error_handling
 * [ ] generics
 * [ ] option
