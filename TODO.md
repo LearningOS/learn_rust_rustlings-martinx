@@ -5,7 +5,7 @@
 * [x] structs   2022-10-21 22:16:21
 * [x] enums 2022-10-21 22:30:22
 * [x] modules   2022-10-21 22:48:13
-* [ ] collections
+* [x] collections   2022-10-21 23:09:28
 * [ ] strings
 * [ ] error_handling
 * [ ] generics
