@@ -1,5 +1,5 @@
 * [x] variables 2022-10-21 20:51:07
-* [ ] functions
+* [x] functions 2022-10-21 20:54:57
 * [ ] move_semantics
 * [ ] primitive_types
 * [ ] structs
