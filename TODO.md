@@ -4,7 +4,7 @@
 * [x] primitive_types 2022-10-21 21:37:27
 * [x] structs   2022-10-21 22:16:21
 * [x] enums 2022-10-21 22:30:22
-* [ ] modules
+* [x] modules   2022-10-21 22:48:13
 * [ ] collections
 * [ ] strings
 * [ ] error_handling
